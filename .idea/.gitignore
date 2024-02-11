@@ -3,3 +3,8 @@
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+/Bin/
+/Obj/
+/.vs
+/.idea
+/ignored_file.txt
